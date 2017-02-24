@@ -1,0 +1,9 @@
+{
+	"name" : "Example-mvc-Expressjs",
+	"version" : "0.0.1",
+	"dependencies":{
+		"express" : "*",
+		"body-parser" :"*",
+		"ejs"      : "*"
+	}
+}
